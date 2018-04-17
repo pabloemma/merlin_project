@@ -5,7 +5,7 @@
 	<key>autoSavePoint</key>
 	<dict>
 		<key>documentModificationDate</key>
-		<date>2018-04-17T15:50:34Z</date>
+		<date>2018-04-17T16:24:48Z</date>
 		<key>reversionPointsByLogID</key>
 		<dict>
 			<key>k6fSI_lIREK9yE0AzUUl2w</key>
@@ -13,27 +13,55 @@
 				<key>branchHeads</key>
 				<dict>
 					<key>masterBranch</key>
-					<string>hap2jueWDIUvn4_YAw4HvhQV6Mc</string>
+					<string>fJiyQCZcZ_fUzoMP_ke4p-aPe58</string>
 					<key>userBranches</key>
 					<dict>
 						<key>UtiF3NLWRcWma1-LkbBQWw</key>
 						<dict>
 							<key>public</key>
-							<string>hap2jueWDIUvn4_YAw4HvhQV6Mc</string>
+							<string>fJiyQCZcZ_fUzoMP_ke4p-aPe58</string>
 						</dict>
 					</dict>
 				</dict>
 			</dict>
 		</dict>
 		<key>timestamp</key>
-		<date>2018-04-17T15:50:34Z</date>
+		<date>2018-04-17T16:24:48Z</date>
+		<key>workarea</key>
+		<string>public</string>
+	</dict>
+	<key>openPoint</key>
+	<dict>
+		<key>documentModificationDate</key>
+		<date>2018-04-17T15:58:56Z</date>
+		<key>reversionPointsByLogID</key>
+		<dict>
+			<key>k6fSI_lIREK9yE0AzUUl2w</key>
+			<dict>
+				<key>branchHeads</key>
+				<dict>
+					<key>masterBranch</key>
+					<string>dTCYNU8m9fpt86Kisom85ADy5L4</string>
+					<key>userBranches</key>
+					<dict>
+						<key>UtiF3NLWRcWma1-LkbBQWw</key>
+						<dict>
+							<key>public</key>
+							<string>dTCYNU8m9fpt86Kisom85ADy5L4</string>
+						</dict>
+					</dict>
+				</dict>
+			</dict>
+		</dict>
+		<key>timestamp</key>
+		<date>2018-04-17T16:14:37Z</date>
 		<key>workarea</key>
 		<string>public</string>
 	</dict>
 	<key>savePoint</key>
 	<dict>
 		<key>documentModificationDate</key>
-		<date>2018-04-13T15:03:39Z</date>
+		<date>2018-04-17T16:24:48Z</date>
 		<key>reversionPointsByLogID</key>
 		<dict>
 			<key>k6fSI_lIREK9yE0AzUUl2w</key>
@@ -41,20 +69,20 @@
 				<key>branchHeads</key>
 				<dict>
 					<key>masterBranch</key>
-					<string>qEerYhwWh8Wg0_0rD8EAOqBEIO0</string>
+					<string>fJiyQCZcZ_fUzoMP_ke4p-aPe58</string>
 					<key>userBranches</key>
 					<dict>
 						<key>UtiF3NLWRcWma1-LkbBQWw</key>
 						<dict>
 							<key>public</key>
-							<string>qEerYhwWh8Wg0_0rD8EAOqBEIO0</string>
+							<string>fJiyQCZcZ_fUzoMP_ke4p-aPe58</string>
 						</dict>
 					</dict>
 				</dict>
 			</dict>
 		</dict>
 		<key>timestamp</key>
-		<date>2018-04-13T15:03:39Z</date>
+		<date>2018-04-17T16:24:48Z</date>
 		<key>workarea</key>
 		<string>public</string>
 	</dict>
